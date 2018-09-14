@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RendAR-Aid", "RendAR-Aid.csproj", "{0638A7BB-31C0-05D5-F2A8-26663900BB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RendAR-Aid.Editor", "RendAR-Aid.Editor.csproj", "{592D42DD-468C-C412-5E43-89363F02C9E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0638A7BB-31C0-05D5-F2A8-26663900BB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0638A7BB-31C0-05D5-F2A8-26663900BB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0638A7BB-31C0-05D5-F2A8-26663900BB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0638A7BB-31C0-05D5-F2A8-26663900BB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592D42DD-468C-C412-5E43-89363F02C9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592D42DD-468C-C412-5E43-89363F02C9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592D42DD-468C-C412-5E43-89363F02C9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592D42DD-468C-C412-5E43-89363F02C9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

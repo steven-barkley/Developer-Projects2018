@@ -1,0 +1,43 @@
+PHP Notepad
+
+the most popular server side programming language
+
+more than 240 million websites use php
+
+used by google apple facebook youtube
+
+Hypertext Preprocessor
+
+PHP CAN BE USED FOR .....
+
+Creating Robust Applications
+Building Dynamic Websites
+
+PHP runs on a server - need to install a local server
+
+Bookmark = PHP.NET for reference
+
+What does PHP do? Send a email, navigate, login , find browser, display alternate browser, and create template for your website
+
+Tools to get started ------
+
+PHP requires a server to run : A virtual server
+
+For MAC : www.mamp.info or ampps.com
+
+Most recommended code editor tools : 
+coda 2 for mac : bradhussey.ca/coda2 7 day trial
+texttastic 
+sublime text
+espresso
+textwrangler
+
+Browser : Google Chrome
+Domain name and web hosting
+
+Good to know info - HTML and CSS
+
+pHP basics
+
+--------------------------------------------------------------------------------------------------
+The Course Files  

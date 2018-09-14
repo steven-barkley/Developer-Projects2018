@@ -1,0 +1,70 @@
+-Name Your Character
+-Choose a class
+-Scenario + Options
+-Class check vs option requirements
+-Outcome
+
+*/
+var outcome;
+
+window.alert():
+
+var beginningScenarios = ["",""];
+
+function randomNumber(range) 
+{
+  "use strict";
+  if (typeof range === "number")
+    {
+      return Math.round(Math.random() * range);
+    }
+}
+
+window.alert(beginnningScenarios[randomNumber(beginningScenarios.length =-1)]);
+
+var character = {
+  health: 5;
+  strength: 0;
+  stealth: 0;
+  name: window.prompt("What is your name?"),
+  characterClassa: window.prompt("").toLowerCase()
+  
+  
+};
+
+if (!character.name) {
+  character.name = window.prompt("");
+  if(!character.name) {
+    window.alert("");
+    character.name = "";
+  }
+}
+
+if (character.characterClass === "soldier") {
+  character.strength = 5; 
+}
+if (character.characterClass === "politician") {
+  character.stealth = 5; 
+}
+if (character.characterClass === "doctor") {
+  character.health = 7;
+}
+
+var choice = window.prompt().toLowerCase();
+
+if (choice === "attack") 
+  {
+    if(character.strength === 5) {
+      window.alert ();
+      outcome = "";
+      character.strength++;
+    }
+    else if (character.strength <= 5){
+      window.alert();
+      window.alert();
+      outcome = "";
+    }
+  }
+
+
+
